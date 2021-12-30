@@ -1,1 +1,1 @@
-# grokking_algorithms_js
+# Solutions to grokking algorithms in JavaScript
