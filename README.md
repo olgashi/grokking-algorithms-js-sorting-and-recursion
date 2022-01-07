@@ -1,1 +1,1 @@
-# Solutions to grokking algorithms (in JavaScript)
+## Solutions to grokking algorithms (in JavaScript)
