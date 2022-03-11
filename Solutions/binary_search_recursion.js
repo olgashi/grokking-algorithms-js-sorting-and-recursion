@@ -24,5 +24,3 @@ function binarySearch(arr, num) {
 }
 
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 9, 11, 34, 76, 90, 931, 9999], 55));
-
-// [1, 2, 3, 4, 5, 6]
