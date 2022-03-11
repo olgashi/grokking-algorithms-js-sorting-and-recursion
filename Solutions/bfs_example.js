@@ -14,10 +14,6 @@ const isMangoSeller = (sellerName) => {
   return mangoSellers.includes(sellerName);
 }
 
-// Determine if the given node has a connection to a node
-// that is a mango seller
-// returns name of the node if it does
-// returns null otherwise
 function bfs(graph, root) {
   let queue = graph[root];
   let visited = [];
