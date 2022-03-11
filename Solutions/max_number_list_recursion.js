@@ -2,7 +2,6 @@ function maxNumber(arr) {
   if (arr.length === 2) {
     return greater(arr[0], arr[1]);
   }
-  // [1, 45, 100, 12, 150, 106]
 
   let subMax = maxNumber(arr.slice(1));
 
