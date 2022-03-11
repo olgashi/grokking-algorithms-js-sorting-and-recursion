@@ -1,1 +1,1 @@
-### Solutions to grokking algorithms (in JavaScript)
+### Solutions to selected sorting and recursion problems (grokking algorithms) - JavaScript
