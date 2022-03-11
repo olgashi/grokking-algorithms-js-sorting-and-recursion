@@ -1,4 +1,3 @@
-// names are a bit weird, but trying to name so it is different from the parameter names
 const pathsGraph = {
   start: {
     A: 5,
